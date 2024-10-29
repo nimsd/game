@@ -1,0 +1,11 @@
+#include "gamepage.h"
+
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    GamePage w;
+    w.show();
+    return a.exec();
+}

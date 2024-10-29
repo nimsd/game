@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src source/interface.jpg</file>
+        <file>src source/snake.png</file>
+        <file>src source/tip_music.wav</file>
+        <file>src source/return.png</file>
+        <file>src source/game_select.png</file>
+        <file>src source/game_back.jpg</file>
+        <file>src source/game_img.jpg</file>
+        <file>src source/down.png</file>
+        <file>src source/left.png</file>
+        <file>src source/right.png</file>
+        <file>src source/up.png</file>
+        <file>src source/head_down.png</file>
+        <file>src source/head_left.png</file>
+        <file>src source/head_right.png</file>
+        <file>src source/head_up.png</file>
+        <file>src source/body.png</file>
+        <file>src source/meal.png</file>
+        <file>src source/bgm.wav</file>
+        <file>src source/integral.png</file>
+        <file>src source/fail.wav</file>
+        <file>src source/succ.wav</file>
+    </qresource>
+</RCC>
